@@ -1,2 +1,4 @@
 # SCC - SolarCarCalculator
  Software to calculate solar car rentability based on personal usage and local weather data
+
+The Solar Car Calculator SCC is able to calculate the rentability of an electric camper van with solar cells on the rooftop compared to a conventional camper van using fossil fuels. It is expected that the electric camper is much more expensive, but cheaper in the upkeep since electricity is generated on the roof and maintenance is cheaper. The author thinks that the rentability mainly depends on the personal usage profile, e.g. the time and the amount of sunshine in his local area between drives. This calculator aims at answering this question with irradiation data from the German Weather Service DWD and google movement tracking that the author gathered in the last half year while driving his conventional camper van.
